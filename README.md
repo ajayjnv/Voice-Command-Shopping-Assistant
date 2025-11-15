@@ -40,8 +40,6 @@ src/components/VoiceInput.css: Styling for microphone animation and UI elements.
 
 How to Run the Project:
 ---------------------
-Backend :
--------
 Navigate to backend folder
 
 Install dependencies:
