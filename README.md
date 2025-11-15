@@ -63,7 +63,6 @@ Install dependencies:
 npm install
 Start the React app:
 
-bash
 npm start
 Open http://localhost:3000 in your browser to use the app.
 
